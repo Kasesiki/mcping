@@ -1,3 +1,3 @@
-module github.com/Xiaxiaobaii/mcping
+module github.com/Kasesiki/mcping
 
 go 1.26
